@@ -1,6 +1,5 @@
-# Trevor Stephens - 18 Jan 2014
+
 # Titanic: Getting Started With R - Part 5: Random Forests
-# Full guide available at http://trevorstephens.com/
 
 # Set working directory and import datafiles
 setwd("~/Kaggle/Titanic")
