@@ -1,6 +1,6 @@
-# Trevor Stephens - 15 Jan 2014
+
 # Titanic: Getting Started With R - Part 4: Feature Engineering
-# Full guide available at http://trevorstephens.com/
+
 
 # Set working directory and import datafiles
 setwd("~/Kaggle/Titanic")
