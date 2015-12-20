@@ -1,6 +1,6 @@
-# Trevor Stephens - 10 Jan 2014
+
 # Titanic: Getting Started With R - Part 3: Decision Trees
-# Full guide available at http://trevorstephens.com/
+
 
 # Set working directory and import datafiles
 setwd("~/Kaggle/Titanic")
